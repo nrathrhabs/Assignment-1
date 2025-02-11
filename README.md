@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 (Poster)
 ## Industry Talk 1 (Overview of ICT Jobs in Industry)
 
 <span style="color:blue; font-weight:bold">📅 Date:</span> <span style="color:#4CAF50">November 17, 2024</span>  
