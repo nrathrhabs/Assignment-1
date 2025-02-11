@@ -13,8 +13,6 @@ PETRONAS, or Petroleum Nasional Berhad, is a prominent Malaysian oil and gas com
 
 ## Poster
 My poster focuses on PETRONAS, a leading Malaysian oil and gas company, highlighting its commitment to sustainability and digital transformation. It provides an overview of the company’s role in renewable energy and community engagement, emphasizing the significance of PETRONAS Digital in driving innovation and efficiency in operations. The poster outlines various career opportunities available within the company, such as Software Engineer, Data Engineer, and Data Scientist, along with the essential skills required for each role. Additionally, it features the Petronas Digital Young Graduate Program (YGP), designed for fresh graduates to gain hands-on experience and professional development. Visual elements, including charts and images, enhance the understanding of PETRONAS's initiatives and career paths. Overall, the poster serves as a resource for those interested in pursuing a career in the energy sector, encouraging viewers to explore the diverse opportunities at PETRONAS and the potential impact they can have in the industry.
-
-
 <div align="center">
      
 [![Sneak Peek of the PDF](https://github.com/nrathrhabs/images/blob/main/Screenshot%202025-02-11%20231427.png)](https://github.com/nrathrhabs/images/blob/main/PETRONAS%20Poster.pdf)
